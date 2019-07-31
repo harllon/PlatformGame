@@ -27,13 +27,14 @@ A movimentação das plataformas envolvem somente animações, sem a presença d
 
 Esse script consiste em, tornar o personagem um filho da plataforma no instante em que a colisão entre os dois seja detectada. Dessa forma, quando a plataforma se move, o personagem acompanha o movimento.
 
-2. Personagem cai na ilha inicial após queda na água:
+2. Personagem volta na ilha inicial após queda na água:
 
-(imagem)
+![teleporta(água)](https://user-images.githubusercontent.com/52334298/62251203-62430780-b3c5-11e9-830b-b33c46b1cc41.jpg)
 
 Esse script faz com que no instante em que o personagem toca a água, a sua posição seja reiniciada no vector3 dado na imagem. Dessa forma, devido a coordenada y, o personagem entra em queda livre até a ilha inicial.
 
 3. Teleporta para última plataforma:
+
 (imagem)
 
 Esse script faz com que, no instante em que o personagem toca a plataforma um contador começa a passar o tempo. Quando esse tempo passa de 10 segundos o personagem é teletransportado para a última plataforma, sendo este o único modo de chegar a segunda ilha.
