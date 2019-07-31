@@ -23,7 +23,7 @@ A movimentação das plataformas envolvem somente animações, sem a presença d
 
 1. Player se move junto a plataforma:
 
-(imagem)
+![prenderplayer](https://user-images.githubusercontent.com/52334298/62251240-7f77d600-b3c5-11e9-815c-2dc40a91b2e2.jpg)
 
 Esse script consiste em, tornar o personagem um filho da plataforma no instante em que a colisão entre os dois seja detectada. Dessa forma, quando a plataforma se move, o personagem acompanha o movimento.
 
