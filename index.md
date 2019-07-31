@@ -9,4 +9,5 @@ Cada plataforma pode ter somente 1 movimento ou uma combinação deles.
 
 Seguem abaixo uma imagem do ambiente criado assim como um vídeo que mostra a movimentação das plataformas.
 
-https://github.com/harllon/platformgame/issues/1#issue-475339761
+![ambiente](https://user-images.githubusercontent.com/52334298/62245369-e1c9da00-b3b7-11e9-9233-a70128cddb08.jpg)
+
