@@ -40,7 +40,8 @@ Esse script faz com que no instante em que o personagem toca a água, a sua posi
 Esse script faz com que, no instante em que o personagem toca a plataforma um contador começa a passar o tempo. Quando esse tempo passa de 10 segundos o personagem é teletransportado para a última plataforma, sendo este o único modo de chegar a segunda ilha.
 Cabe mostrar também o script análogo que foi colocado na primeira plataforma. Ele teletransporta o personagem ao inicio caso o mesmo passe mais de 5 segundos nela.
 
-(imagem)
+![teleporta(certo)](https://user-images.githubusercontent.com/52334298/62251229-7555d780-b3c5-11e9-8289-f3f803e59eff.jpg)
+
 
 ####Gameplay
 
