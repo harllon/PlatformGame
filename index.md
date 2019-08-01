@@ -25,7 +25,7 @@ Esse script consiste em tornar o personagem um filho da plataforma no instante e
 
 2. Personagem volta na ilha inicial após queda na água:
 
-![teleporta(água)](https://user-images.githubusercontent.com/52334298/62251203-62430780-b3c5-11e9-830b-b33c46b1cc41.jpg)
+![teleporta(água)(copia)](https://user-images.githubusercontent.com/52334298/62258945-f7082e00-b3e2-11e9-90f9-6e2c8759d7a8.jpg)
 
 Esse script faz com que, no instante em que o personagem toca a água, a sua posição seja reiniciada no vector3 dado na imagem. Dessa forma, devido à coordenada y, o personagem entra em queda livre até a ilha inicial.
 
