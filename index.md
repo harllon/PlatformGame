@@ -21,9 +21,9 @@ A movimentação das plataformas envolve somente animações, sem a presença de
 
 ![attachplay](https://user-images.githubusercontent.com/52334298/62284997-293d7e00-b42b-11e9-81bc-2e690752e3d4.jpg)
 
-Esse script consiste em tornar o personagem um filho da plataforma no instante em que a colisão entre os dois seja detectada. Dessa forma, quando a plataforma se move, o personagem acompanha o movimento.
+Esse script consiste em tornar o personagem um filho da plataforma no instante em que a colisão entre os dois é detectada. Dessa forma, quando a plataforma se move, o personagem acompanha o movimento.
 
-2 - Personagem volta na ilha inicial após queda na água:
+2 - Personagem volta à ilha inicial após queda na água:
 
 ![teletransporta(agua)](https://user-images.githubusercontent.com/52334298/62285600-4d4d8f00-b42c-11e9-814e-7aba4d103cb1.jpg)
 
