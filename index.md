@@ -11,7 +11,7 @@ Segue abaixo uma imagem do ambiente criado, assim como um link para o vídeo que
 
 O próximo vídeo mostra a ambientação já sobre a perspectiva do personagem.
 
-https://youtu.be/QaSZENLSL-w
+[vídeo 2](https://youtu.be/QaSZENLSL-w)
 
 A movimentação das plataformas envolve somente animações, sem a presença de um script. Além disso, alguns scripts foram necessários para a perfeita execução do jogo, sendo eles:
 
@@ -42,9 +42,9 @@ Esse script faz com que, no instante em que o personagem toca a plataforma, um c
 
 Por fim, serão mostrados 2 vídeos do jogo: o primeiro mostra o limite alcançado, tentando passar todas as plataformas, enquanto o segundo mostra como chegar ao outro lado.
 
-https://youtu.be/fiAVWvGOhSs
+[vídeo 3](https://youtu.be/fiAVWvGOhSs)
 
-https://youtu.be/ypi8Nhbp0z0
+[vídeo 4](https://youtu.be/ypi8Nhbp0z0)
 
 ##### Considerações Finais
 Esse projeto tem como objetivo desenvolver conceitos trabalhados durante a disciplina de Sistemas Gráficos 3D. Nesse jogo, foram utilizadas assets da Assets Store, como a Standard Assets. Os scripts citados foram manualmente criados e vários conceitos foram envolvidos durante a elaboração do jogo, como as teorias de hierarquia, animação, iluminação e câmera, entre outros elementos que foram usados durante a implementação do jogo.
