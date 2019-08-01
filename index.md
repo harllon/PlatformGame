@@ -7,7 +7,7 @@ Segue abaixo uma imagem do ambiente criado, assim como um link para o vídeo que
 
 ![ambiente](https://user-images.githubusercontent.com/52334298/62245369-e1c9da00-b3b7-11e9-9233-a70128cddb08.jpg)
 
-[vídeo 1] (https://youtu.be/18IjnPUjwkE)
+[vídeo 1](https://youtu.be/18IjnPUjwkE)
 
 O próximo vídeo mostra a ambientação já sobre a perspectiva do personagem.
 
