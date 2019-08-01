@@ -17,19 +17,19 @@ A movimentação das plataformas envolve somente animações, sem a presença de
 
 ### Scripts
 
-1. Player se move junto a plataforma:
+1 - Player se move junto a plataforma:
 
 ![prenderplayer](https://user-images.githubusercontent.com/52334298/62251240-7f77d600-b3c5-11e9-815c-2dc40a91b2e2.jpg)
 
 Esse script consiste em tornar o personagem um filho da plataforma no instante em que a colisão entre os dois seja detectada. Dessa forma, quando a plataforma se move, o personagem acompanha o movimento.
 
-2. Personagem volta na ilha inicial após queda na água:
+2 - Personagem volta na ilha inicial após queda na água:
 
 ![Sem título(agua)](https://user-images.githubusercontent.com/52334298/62259122-a3e2ab00-b3e3-11e9-9817-1e202f789ff1.jpg)
 
 Esse script faz com que, no instante em que o personagem toca a água, a sua posição seja reiniciada no vector3 dado na imagem. Dessa forma, devido à coordenada y, o personagem entra em queda livre até a ilha inicial.
 
-3. Teleporta para última plataforma:
+3 - Teleporta para última plataforma:
 
 ![teleportafinal](https://user-images.githubusercontent.com/52334298/62252834-5574e280-b3ca-11e9-8a19-51c00f6e74ba.jpg)
 
